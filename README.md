@@ -1,2 +1,2 @@
-# quick-sort
-a simple code for quicksort
+# sort
+some simple codes for sort
